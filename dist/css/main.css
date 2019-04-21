@@ -201,7 +201,7 @@ main {
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url(../img/elmer-riggs.jpg);
+      background: url(../img/portrait.jpg);
       border-radius: 50%;
       border: 3px solid #eece1a; }
   .menu .nav-item {
@@ -267,9 +267,9 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url(../img/elmer-riggs-small.jpg);
-      width: 150px;
-      height: 150px; }
+      background: url(../img/portrait_sm.jpg);
+      width: 120px;
+      height: 120px; }
   .about-info {
     grid-template-areas: "bioimage" "bio" "job1" "job2" "job3";
     grid-template-columns: 1fr; }
